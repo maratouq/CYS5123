@@ -1,4 +1,5 @@
 ## Backdoors
+
 >  #### Defenition
 
 Any method that allows authorized and unauthorized users to gain remote access to a device, system or network, bypassing authentication or other security controls without being noticed.  
@@ -12,6 +13,7 @@ To be able to successfully install a backdoor, the system first should be compro
 - A malware attack
 - Exploiting system vulnerability  
 <br>
+
 > #### Why backdoors are installed?
 
 As mentioned eariler, backdoors can be installed with the criminal intention away from mind by manufacturers and designers to gain future access to the system, considering the other side, backdoors ease the path for cyber criminal activities even if they don't constitute sobtage directly. They play cruical roles in targetted attacks, as they allow to take control of affected systems.
@@ -28,6 +30,7 @@ Cybercriminals can use backdoors to install all means of malware and apply sever
 - DDOS attacks
 - Cryptojacking
 <br>
+
 > #### How to prevent backdoor attacks?
 
 Preventing backdoor attacks isn't usually an easy task to do, however, the following can provide some sort of protection against them:
